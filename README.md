@@ -47,4 +47,5 @@ let g:checkpatch_enabled = 1
 
 ## Screenshots
 
+![Example](https://raw.githubusercontent.com/Deedone/checkpatch.nvim/master/scrot.png)
 
